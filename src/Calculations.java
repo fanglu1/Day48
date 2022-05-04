@@ -8,10 +8,10 @@ public class Calculations {
         System.out.println("Enter another number: ");
         double num2 = math.nextDouble();
 
-        System.out.println(num + "+" + num2 + "=" + (num + num2));
-        System.out.println(num + "-" + num2 + "=" + (num - num2));
-        System.out.println(num + "*" + num2 + "=" + (num * num2));
-        System.out.println(num + "/" + num2 + "=" + (num / num2));
-        System.out.println(num + "%" + num2 + "=" + (num % num2));
+        System.out.println(num + " + " + num2 + " = " + (num + num2));
+        System.out.println(num + " - " + num2 + " = " + (num - num2));
+        System.out.println(num + " * " + num2 + " = " + (num * num2));
+        System.out.println(num + " / " + num2 + " = " + (num / num2));
+        System.out.println(num + " % " + num2 + " = " + (num % num2));
     }
 }
